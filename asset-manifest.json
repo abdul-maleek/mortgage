@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.13a606d7.css",
-    "main.js": "/static/js/main.93e0b687.js",
-    "static/js/453.3497cf11.chunk.js": "/static/js/453.3497cf11.chunk.js",
-    "index.html": "/index.html",
-    "main.13a606d7.css.map": "/static/css/main.13a606d7.css.map",
-    "main.93e0b687.js.map": "/static/js/main.93e0b687.js.map",
-    "453.3497cf11.chunk.js.map": "/static/js/453.3497cf11.chunk.js.map"
+    "main.css": "/mortgage/static/css/main.13a606d7.css",
+    "main.js": "/mortgage/static/js/main.5d4d5042.js",
+    "static/js/453.3497cf11.chunk.js": "/mortgage/static/js/453.3497cf11.chunk.js",
+    "index.html": "/mortgage/index.html",
+    "main.13a606d7.css.map": "/mortgage/static/css/main.13a606d7.css.map",
+    "main.5d4d5042.js.map": "/mortgage/static/js/main.5d4d5042.js.map",
+    "453.3497cf11.chunk.js.map": "/mortgage/static/js/453.3497cf11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13a606d7.css",
-    "static/js/main.93e0b687.js"
+    "static/js/main.5d4d5042.js"
   ]
 }
